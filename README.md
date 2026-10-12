@@ -4,6 +4,7 @@
 ### 🚀 About Me 
 <p align="center">
   BSc in Engineering & Computer Science student at Politecnico di Milano
+  <br>
   MSc in Financial Technology at Università della Svizzera Italiana (Lugano)
 </p>
 
